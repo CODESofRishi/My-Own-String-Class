@@ -86,6 +86,9 @@ int main() {
 
     cout<<"\n=====TETS-9=====\n"<<endl;
 
+    obj1 *= 0;
+    obj1.display();
+
     obj1 *= 5;
     obj1.display();
 
