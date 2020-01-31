@@ -53,7 +53,8 @@ Mystring& Mystring::operator=(const Mystring &rhs) {
 
 // move assignment
 Mystring& Mystring::operator=(const Mystring &&rhs) {
-    if (this == &rhs) return *this;
+    if (this == &rhs)
+        return *this;
     delete [] str;
     str = new char[std::strlen(rhs.str) + 1];
     std::strcpy(str, rhs.str);
