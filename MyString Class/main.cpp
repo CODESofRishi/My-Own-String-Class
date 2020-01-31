@@ -18,7 +18,7 @@ int main() {
     obj2 = "GreatWorld";
     obj2.display();
 
-    cout<<"\n=====TETS-2=====\n"<<endl;
+    cout<<"\n=====TEST-2=====\n"<<endl;
 
     cout<<boolalpha;
 
@@ -28,7 +28,7 @@ int main() {
     cout<<(obj1 == obj2)<<endl;  // true
     cout<<("CheckObject" == obj2);
 
-    cout<<"\n=====TETS-3=====\n"<<endl;
+    cout<<"\n=====TEST-3=====\n"<<endl;
 
     cout<<(obj1 != obj2)<<endl;
 
@@ -36,12 +36,12 @@ int main() {
     cout<<(obj1 != obj2)<<endl;
     cout<<("My_World" != obj2)<<endl;
 
-    cout<<"\n=====TETS-4=====\n"<<endl;
+    cout<<"\n=====TEST-4=====\n"<<endl;
 
     cout<<(obj1 > obj2)<<endl;
     cout<<(obj1 < obj2)<<endl;
 
-    cout<<"\n=====TETS-5=====\n"<<endl;
+    cout<<"\n=====TEST-5=====\n"<<endl;
 
     obj1.display();
     obj2.display();
@@ -53,7 +53,7 @@ int main() {
     obj1.display();
     obj2.display();
 
-    cout<<"\n=====TETS-6=====\n"<<endl;
+    cout<<"\n=====TEST-6=====\n"<<endl;
 
     obj1 = "Hello";
     obj2 = "World";
@@ -63,7 +63,7 @@ int main() {
     obj1.display();
     obj2.display();
 
-    cout<<"\n=====TETS-7=====\n"<<endl;
+    cout<<"\n=====TEST-7=====\n"<<endl;
 
     obj1.display();
     obj2.display();
@@ -73,7 +73,7 @@ int main() {
     obj1.display();
     obj2.display();
 
-    cout<<"\n=====TETS-8=====\n"<<endl;
+    cout<<"\n=====TEST-8=====\n"<<endl;
 
     obj1 = "Hello";
     obj2 = "World";
@@ -84,7 +84,7 @@ int main() {
     obj1.display();
     obj2.display();
 
-    cout<<"\n=====TETS-9=====\n"<<endl;
+    cout<<"\n=====TEST-9=====\n"<<endl;
 
     obj1 *= 0;
     obj1.display();
@@ -92,7 +92,7 @@ int main() {
     obj1 *= 5;
     obj1.display();
 
-    cout<<"\n=====TETS-10=====\n"<<endl;
+    cout<<"\n=====TEST-10=====\n"<<endl;
 
     cout << obj1 << endl;
     cout << obj2 << endl;
