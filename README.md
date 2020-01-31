@@ -2,7 +2,7 @@
 ### My own string class using raw pointers.
 
 
-- Data Type --> Mystring
+- *Data Type* --> **Mystring**
 - `=` assignment
 - `==` comparison
 - `!=` comparison
