@@ -6,8 +6,11 @@
 - `=` assignment
 - `==` comparison
 - `!=` comparison
-- '<' lexicographically smaller than
+- `<` lexicographically smaller than
 - `>` lexicographically larger than
 - `+` string concatenation
 - `+=` string concatenation
 - '-' lowercase conversion
+- `*` string multiplication
+- `*=` string multiplication
+- Print & extract from output & input stream Mystring objects.
