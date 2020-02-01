@@ -9,8 +9,8 @@
 - `<` lexicographically smaller than
 - `>` lexicographically larger than
 - `+` string concatenation
-- `+=` string concatenation
+- `+=` string concatenation & assignment
 - `-` lowercase conversion
 - `*` string multiplication
-- `*=` string multiplication
+- `*=` string multiplication & assignment
 - Print & extract from output & input stream Mystring objects.
