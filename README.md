@@ -11,6 +11,6 @@
 - `+` string concatenation
 - `+=` string concatenation & assignment
 - `-` lowercase conversion
-- `*` string multiplication
-- `*=` string multiplication & assignment
+- `*` string repetition
+- `*=` string repetition & assignment
 - Print & extract from output & input stream Mystring objects.
